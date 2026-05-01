@@ -1,0 +1,2 @@
+# disipliniler
+disiplin
